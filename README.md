@@ -34,4 +34,5 @@ CSS -- Cascading Style Sheets (CSS) is a style sheet language used for describin
 
 Javascript -- a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/53023966/68064484-8a0e7800-fcf2-11e9-952c-8e3a1e21bdb1.gif)
 
